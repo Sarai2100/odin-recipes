@@ -1,0 +1,28 @@
+/* * {
+    border: 1px red solid;
+} */
+
+h1 {
+    text-align: center;
+    color: rgb(45, 198, 198);
+}
+body {
+    width: 100%;
+    background-color: rgb(43, 32, 53);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+img {
+  display: block;  /*this works because img are inline elements  */
+  margin: 0 auto;
+} 
+
+ul,
+li,
+a {
+    
+    text-align: center;
+    list-style-type: none;
+    text-decoration: none;
+    color: rgb(45, 198, 198);
+}
