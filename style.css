@@ -2,9 +2,17 @@
     border: 1px red solid;
 } */
 
-h1 {
+h1,
+p,
+h2 {
     text-align: center;
     color: rgb(45, 198, 198);
+}
+h2{
+    color: rgb(199, 160, 236);
+}
+p {
+    color: rgb(201, 184, 139);
 }
 body {
     width: 100%;
